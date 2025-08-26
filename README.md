@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me:
 - 🔭 I’m currently working on **React Interview Q&A Project**
-- 🌱 I’m learning **Advanced React, Node.js & Next.js**
+- 🌱 I’m learning **Advanced React, Java**
 - 💬 Ask me about **React, JavaScript, HTML, CSS, Bootstrap**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/deepilipsa-behura-31673a282/)
 - 🎓 I’m a B.Tech graduate passionate about building real-world projects
